@@ -1,0 +1,25 @@
+#container {
+    width: 95%;
+    height: 80vw;
+    background: #000;
+    display: flex;
+}
+
+p {
+    width: 80%;
+    height: 40vw;
+    background: #f8dff1;
+    border-radius: 20px;
+    padding: 10px 90px;
+    line-height: 130%;
+    font-size: 2em;
+    text-align: justify;
+    margin: 5% auto;
+
+}
+
+body {
+    background: #a00775;
+    display: flex;
+    justify-content: center;
+}

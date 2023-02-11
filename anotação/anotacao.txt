@@ -1,0 +1,19 @@
+aglumas anotação que fazerei ao longo do curso
+
+VAR / LET   diferença:
+
+o LET difernete do VAR ela nao permitia redeclarar uma variavel
+ou seja:
+
+let nome = 'rafael'
+let nome = 'felipe'
+
+nesse trexinho de codigo ja da erro devido a essa "regrinha" de não poder redeclarar
+
+não é recomendado criar variaveis sem ser declaradas como const, lest etc... criando variaveis dessa forma "direta" poderar da problema, pq a variavel fica 
+global, ou seja, ela pode ser usada em outros codigos dentro do sistema, exemplo de errado / certo
+
+nome = 'rafael' -> errado 
+
+let nome = 'rafael' -> certo 
+const nome = 'rafael' -> certo 

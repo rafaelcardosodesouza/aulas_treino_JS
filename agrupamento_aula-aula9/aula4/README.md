@@ -1,0 +1,1 @@
+<h2>ola, aqui só estou testando e praticando um pouco de como se comenta um trecho de codigo no js, creio que no cmeço vou usar bastanta para criar anotação interna do que eu estou fazendo.</h2>
