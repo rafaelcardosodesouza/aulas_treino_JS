@@ -7,5 +7,4 @@ function nameCheck(nome){
         console.log(`no you are not rafael, you are the ${nameUser}`);
     }
 }
-
 console.log(nameCheck(nameUser));
