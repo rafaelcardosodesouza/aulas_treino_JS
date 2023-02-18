@@ -1,7 +1,8 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap');
 
 body{
-    background-color: rgb(35, 196, 224);
+    background-color: rgb(28, 128, 146);
+    font-weight: bolder;
 }
 span{
     color: rgb(255, 255, 255);
@@ -14,7 +15,7 @@ span{
     margin: auto;
     margin-top: 10%;
     border-radius: 80px;
-    border: 7px solid rgb(255, 255, 255);
+    border: 7px solid #FFF2F2;
     background-image: linear-gradient(325deg, #c5c2ea 0, #979cdc 25%, #5d78cd 50%, #0058be 75%, #003db0 100%);
 }
 .respostas{
