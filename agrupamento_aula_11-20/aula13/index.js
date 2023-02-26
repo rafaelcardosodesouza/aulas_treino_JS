@@ -26,10 +26,23 @@ saudacao(`LEANDRO`)
 saudacao(`LEONARDO`)
 */
 
-
-function soma(x, y){
+/*
+function soma(x = 1, y = 1){ // se eu não enviar nenhum valor o x e o Y assumem o 1 como valor 
     let resultado = x + y;  //não tem como acessar o valor dessa variavel fora do campo function
     return resultado;
 }
 
-console.log(soma(5, 20));
+console.log(soma());
+*/
+
+
+
+// let raiz = function (n){
+//     return n ** 0.5
+// };
+
+let raiz = n => n ** 0.5; // quando é uma função de uma unica linha posso usar o Arrow functions,  => 
+
+console.log(raiz(9));
+console.log(raiz(16));
+console.log(raiz(25));
